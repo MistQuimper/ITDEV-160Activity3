@@ -1,0 +1,35 @@
+﻿body
+{
+	font-family: "Open Sans", sans-serif;
+	color: #d1247d;
+}
+
+h1 {
+	color: #d0d61e;
+	background-color: #d67a1e;
+}
+
+img {
+	height: 100px;
+	text-align: left;
+}
+
+figcaption span {
+	font-size: .85em;
+}
+
+p#product-description {
+	margin: 20px 0 20px 0;
+	text-align: justify;
+}
+
+h3.userName {
+	line-height: 3em;
+	font-weight: bold;
+}
+
+div.review {
+	padding: 10px;
+	background-color: #94c930;
+	margin: 20px 0 20px 0;
+}
